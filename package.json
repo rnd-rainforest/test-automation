@@ -1,0 +1,8 @@
+{
+  "author": "rnd",
+  "multi": {
+    "step": {
+      "auto-complete": true
+    }
+  }
+}
